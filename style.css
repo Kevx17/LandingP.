@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    list-style: none;
+    align-self: flex-end;
+    justify-content: space-between;
+}
+li {
+    align-items: center;
+}
